@@ -147,14 +147,6 @@ git push -u origin main
    - Vercel will automatically deploy on push to main
    - Or click "Deploy" to deploy immediately
 
-### Alternative: Deploy to Other Platforms
-
-The app can also be deployed to any platform that supports Next.js:
-- Netlify
-- Railway
-- Render
-- AWS Amplify
-
 Make sure to set the `GEMINI_API_KEY` environment variable in your platform's settings.
 
 ## Performance
@@ -163,12 +155,6 @@ Make sure to set the `GEMINI_API_KEY` environment variable in your platform's se
 - **LLM Processing**: ~0.5-1s (Gemini API)
 - **Total Latency**: ~1-2s (meets sub-2s requirement)
 - **Accuracy**: 90%+ for common voice commands
-
-## Browser Compatibility
-
-- Chrome/Edge (full support)
-- Safari (full support)
-- Firefox (limited support - may require polyfill)
 
 ## Notes
 
