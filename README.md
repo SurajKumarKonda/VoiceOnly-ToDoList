@@ -86,12 +86,12 @@ npm run dev
 - "Show me high priority tasks"
 
 **Update Tasks:**
-- "Push the task about fixing bugs to tomorrow"
+- "Push the task about fixing bugs to tomorrow."
 - "Change the priority of X to high"
-- "Update the task about compliances"
+- "Update the task about giving laundry."
 
 **Delete Tasks:**
-- "Delete the task about compliances"
+- "Delete the task about giving laundry."
 - "Delete the 4th task"
 - "Remove task X"
 
@@ -175,7 +175,7 @@ Make sure to set the `GEMINI_API_KEY` environment variable in your platform's se
 - Tasks are stored in browser localStorage for persistence
 - Voice recognition requires microphone permissions
 - A Google Gemini API key is required for natural language processing
-- See `TECH_CHOICES.md` for detailed explanation of technology choices
+- See `TECH_CHOICES.md` for a detailed explanation of technology choices
 
 ## License
 
