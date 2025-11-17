@@ -41,7 +41,7 @@ A voice-first to-do list web application that uses natural language voice comman
 ### Prerequisites
 
 - Node.js 18+ 
-- npm or yarn
+- npm
 - Google Gemini API key
 
 ### Installation
