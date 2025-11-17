@@ -4,11 +4,11 @@ A voice-first to-do list web application that uses natural language voice comman
 
 ## Features
 
-- 🎤 **Voice Input**: Use your voice to interact with the app
-- 📝 **Natural Language Processing**: Understands commands like "Show me all administrative tasks" or "Delete the task about compliances"
-- ✅ **Full CRUD Operations**: Create, read, update, and delete tasks via voice
-- 📅 **Task Properties**: Tasks include title, scheduled time, priority, and category
-- ⚡ **Fast Response**: Sub-2s latency with 90%+ accuracy
+- **Voice Input**: Use your voice to interact with the app
+- **Natural Language Processing**: Understands commands like "Show me all administrative tasks" or "Delete the task about compliances"
+- **Full CRUD Operations**: Create, read, update, and delete tasks via voice
+- **Task Properties**: Tasks include title, scheduled time, priority, and category
+- **Fast Response**: Sub-2s latency with 90%+ accuracy
 
 ## Tech Stack
 
@@ -166,15 +166,15 @@ Make sure to set the `GEMINI_API_KEY` environment variable in your platform's se
 
 ## Browser Compatibility
 
-- ✅ Chrome/Edge (full support)
-- ✅ Safari (full support)
-- ⚠️ Firefox (limited support - may require polyfill)
+- Chrome/Edge (full support)
+- Safari (full support)
+- Firefox (limited support - may require polyfill)
 
 ## Notes
 
 - Tasks are stored in browser localStorage for persistence
 - Voice recognition requires microphone permissions
-- Google Gemini API key is required for natural language processing
+- A Google Gemini API key is required for natural language processing
 - See `TECH_CHOICES.md` for detailed explanation of technology choices
 
 ## License
