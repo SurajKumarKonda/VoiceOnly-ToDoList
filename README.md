@@ -42,7 +42,7 @@ A voice-first to-do list web application that uses natural language voice comman
 
 - Node.js 18+ 
 - npm or yarn
-- Google Gemini API key (get one at https://makersuite.google.com/app/apikey)
+- Google Gemini API key
 
 ### Installation
 
