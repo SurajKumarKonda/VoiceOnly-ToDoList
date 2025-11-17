@@ -13,8 +13,8 @@ A voice-first to-do list web application that uses natural language voice comman
 ## Tech Stack
 
 - **Framework**: Next.js 14 (React)
-- **Voice Recognition**: Web Speech API (browser-native, fast, no API keys required)
-- **LLM**: Google Gemini Pro (for natural language understanding and intent parsing)
+- **Voice Recognition**: Web Speech API
+- **LLM**: Google Gemini Pro
 - **Deployment**: Vercel
 
 ## Why These Choices?
